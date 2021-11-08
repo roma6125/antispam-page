@@ -4,7 +4,7 @@ title: Политика конфиденциальности
 include_in_header: false
 ---
 
-# Privacy Policy
+# Privacy Policy & Terms of Use
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
